@@ -1,0 +1,340 @@
+[
+  {
+    "type": "didascalie",
+    "personnage": "Roxane",
+    "contenu": "entrouvrant sa fenêtre"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Qui donc m'appelle ?"
+  },
+  { "type": "réplique", "personnage": "Christian", "contenu": "Moi." },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Qui, moi ?" },
+  { "type": "réplique", "personnage": "Christian", "contenu": "Christian." },
+  { "type": "didascalie", "personnage": "Roxane", "contenu": "avec dédain" },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "C'est vous." },
+  {
+    "type": "réplique",
+    "personnage": "Christian",
+    "contenu": "Je voudrais vous parler."
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Cyrano",
+    "contenu": "sous le balcon, à Christian — Bien. Bien. Presque à voix basse."
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Non ! Vous parlez trop mal. Allez-vous-en !"
+  },
+  { "type": "réplique", "personnage": "Christian", "contenu": "De grâce !…" },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Non ! Vous ne m'aimez plus !"
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Christian",
+    "contenu": "à qui Cyrano souffle ses mots"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Christian",
+    "contenu": "M'accuser, - justes dieux !- De n'aimer plus …quand…j'aime plus !"
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Roxane",
+    "contenu": "qui allait refermer sa fenêtre, s'arrêtant"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Tiens, mais c'est mieux !"
+  },
+  { "type": "didascalie", "personnage": "Christian", "contenu": "même jeu" },
+  {
+    "type": "réplique",
+    "personnage": "Christian",
+    "contenu": "L'amour grandit bercé dans mon âme inquiète… Que ce … cruel marmot prit pour …barcelonnette !"
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Roxane",
+    "contenu": "s'avançant sur le balcon"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "C'est mieux ! – Mais, puisqu'il est cruel, vous fûtes sot De ne pas, cet amour, l'étouffer au berceau !"
+  },
+  { "type": "didascalie", "personnage": "Christian", "contenu": "même jeu" },
+  {
+    "type": "réplique",
+    "personnage": "Christian",
+    "contenu": "Aussi l'ai-je tenté, mais …tentative nulle : Ce…nouveau-né, Madame, est un petit …Hercule"
+  },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "C'est mieux !" },
+  { "type": "didascalie", "personnage": "Christian", "contenu": "même jeu" },
+  {
+    "type": "réplique",
+    "personnage": "Christian",
+    "contenu": "De sorte qu'il …strangula comme rien… Les deux serpents…Orgueil et Doute."
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Roxane",
+    "contenu": "s'accoudant au balcon"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Ah ! c'est très bien. Mais pourquoi parlez-vous de façon peu hâtive ? Auriez-vous donc la goutte à l'imaginative ?"
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Cyrano",
+    "contenu": "tirant Christian sous le balcon, et se glissant à sa place — Chut ! Cela devient trop difficile !…"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Aujourd'hui… Vos mots sont hésitants. Pourquoi ?"
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Cyrano",
+    "contenu": "parlant à mi-voix, comme Christian"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "C'est qu'il fait nuit, Dans cette ombre, à tâtons, ils cherchent votre oreille."
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Les miens n'éprouvent pas difficulté pareille."
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Ils trouvent tout de suite ? oh ! cela va de soi, Puisque c'est dans mon cœur, eux, que je les reçoi ; Or, moi, j'ai le cœur grand, vous, l'oreille petite. D'ailleurs vos mots, à vous, descendent : ils vont plus vite. Les miens montent, Madame : il leur faut plus de temps !"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Mais ils montent bien mieux depuis quelques instants."
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "De cette gymnastique, ils ont pris l'habitude !"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Je vous parle, en effet, d'une vraie altitude !"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Certe, et vous me tueriez si de cette hauteur Vous me laissiez tomber un mot dur sur le cœur."
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Roxane",
+    "contenu": "avec un mouvement"
+  },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Je descends." },
+  { "type": "didascalie", "personnage": "Cyrano", "contenu": "vivement" },
+  { "type": "réplique", "personnage": "Cyrano", "contenu": "Non !" },
+  {
+    "type": "didascalie",
+    "personnage": "Roxane",
+    "contenu": "lui montrant le banc qui est sous le balcon"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Grimpez sur le banc, alors, vite !"
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Cyrano",
+    "contenu": "reculant avec effroi dans la nuit"
+  },
+  { "type": "réplique", "personnage": "Cyrano", "contenu": "Non !" },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Comment…non ?" },
+  {
+    "type": "didascalie",
+    "personnage": "Cyrano",
+    "contenu": "que l'émotion gagne de plus en plus"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Laissez un peu que l'on profite… De cette occasion qui s'offre…de pouvoir Se parler doucement, sans se voir."
+  },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Sans se voir ?" },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Mais oui, c'est adorable. On se devine à peine. Vous voyez la noirceur d'un long manteau qui traîne, J'aperçois la blancheur d'une robe d'été : Moi, je ne suis qu'une ombre, et vous qu'une clarté ! Vous ignorez pour moi ce que sont ces minutes ! Si quelquefois je fus éloquent…"
+  },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Vous le fûtes !" },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Mon langage jamais jusqu'ici n'est sorti De mon vrai cœur…"
+  },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Pourquoi ?" },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Parce que … jusqu'ici Je parlais à travers…"
+  },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Quoi ?" },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "…le vertige où tremble Quiconque est sous vos yeux !…Mais ce soir, il me semble… Que je vais vous parler pour la première fois !"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "C'est vrai que vous avez une tout autre voix."
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Cyrano",
+    "contenu": "se rapprochant avec fièvre"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Oui, tout autre, car dans la nuit qui me protège J'ose enfin être moi-même, et j'ose…"
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Cyrano",
+    "contenu": "Il s'arrête et avec égarement."
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Où en étais-je ? Je ne sais…tout ceci, -pardonnez mon émoi,- C'est si délicieux…c'est si nouveau pour moi !"
+  },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Si nouveau ?" },
+  {
+    "type": "didascalie",
+    "personnage": "Cyrano",
+    "contenu": "bouleversé, et essayant toujours de rattraper ses mots"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Si nouveau …mais oui… d'être sincère : La peur d'être raillé, toujours au ventre me serre…"
+  },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Raillé de quoi ?" },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Mais de … d'un élan !… Oui, mon cœur, Toujours, de mon esprit s'habille, par pudeur : Je pars pour décrocher l'étoile, et je m'arrête Par peur du ridicule, à cueillir la fleurette !"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "La fleurette a du bon."
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Ce soir, dédaignons-la !"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Vous ne m'aviez jamais parlé comme cela !"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Ah ! si, loin des carquois, des torches et des flèches, On se sauvait un peu vers des choses…plus fraîches ! Au lieu de boire goutte à goutte, en un mignon Dé à coudre d'or fin, l'eau fade du Lignon, Si l'on tentait de voir comment l'âme s'abreuve En buvant largement à même le grand fleuve !"
+  },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Mais l'esprit ?…" },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "J'en ai fait pour vous faire rester, D'abord, mais maintenant, ce serait insulter Cette nuit, ces parfums, cette heure, la Nature, Que de parler comme un billet doux de Voiture ! Laissons, d'un seul regard de ses astres, le ciel Nous désarmer de tout notre artificiel ; Je crains tant que parmi notre alchimie exquise Le vrai du sentiment ne se volatilise, Que l'âme ne se vide à ces passe-temps vains, Et que le fin du fin ne soit la fin des fins !"
+  },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Mais l'esprit ?…" },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Je le hais dans l'amour ! C'est un crime Lorsqu'on aime de trop prolonger cette escrime ! Le moment vient d'ailleurs inévitablement, Et je plains ceux pour qui ne vient pas ce moment !- Où nous sentons qu'en nous une amour noble existe Que chaque joli mot que nous disons rend triste !"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Eh bien ! si ce moment est venu pour nous deux Quels mots me diriez-vous ?"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Tous ceux, tous ceux, tous ceux Qui me viendront, je vais vous les jeter en touffe Sans les mettre en bouquet : je vous aime, j'étouffe Je t'aime, je suis fou, je n'en peux plus, c'est trop ; Ton nom est dans mon cœur comme dans un grelot, Et comme tout le temps, Roxane, je frissonne, Tout le temps, le grelot s'agite, et le nom sonne ! De toi, je me souviens de tout, j'ai tout aimé : Je sais que l'an dernier, un jour, le douze mai, Pour sortir le matin tu changeas de coiffure ! J'ai tellement pris pour clarté ta chevelure Que lorsqu'on a trop fixé le soleil, On voit sur toute chose ensuite un rond vermeil, Sur tout, quand j'ai quitté les feux dont tu m'inondes, Mon regard ébloui pose des taches blondes !"
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Roxane",
+    "contenu": "d'une voix troublée"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Oui, c'est bien de l'amour…"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Certes, ce sentiment Qui m'envahit, terrible et jaloux, c'est vraiment De l'amour, il en a toute la fureur triste ! De l'amour, -et pourtant il n'est pas égoïste ! Ah ! que pour ton bonheur je donnerais le mien, Quand même tu devrais n'en savoir jamais rien, S'il se pouvait, parfois, que de loin j'entendisse Rire un peu le bonheur né de mon sacrifice ! Chaque regard de toi suscite une vertu Nouvelle, une vaillance en moi ! Commences-tu A comprendre, à présent ? voyons, te rends-tu compte ? Sens-tu mon âme, un peu, dans cette ombre, qui monte ?… Oh ! mais vraiment ce soir, c'est trop beau, c'est trop doux ! Je vous dis tout cela, vous m'écoutez, moi, vous ! C'est trop ! Dans mon espoir même le moins modeste, Je n'ai jamais espéré tant ! Il ne me reste Qu'à mourir maintenant ! C'est à cause des mots Que je dis qu'elle tremble entre les bleus rameaux ! Car vous tremblez, comme une feuille entre les feuilles ! Car tu trembles ! car j'ai senti, que tu le veuilles Ou non, le tremblement adoré de ta main Descendre tout le long des branches du jasmin !"
+  },
+  {
+    "type": "didascalie",
+    "personnage": "Cyrano",
+    "contenu": "Il baise éperdument l'extrémité d'une branche pendante."
+  },
+  {
+    "type": "réplique",
+    "personnage": "Roxane",
+    "contenu": "Oui, je tremble, et je pleure, et je t'aime, et suis tienne ! Et tu m'as enivrée !"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Alors, que la mort vienne ! Cette ivresse, c'est moi, moi, qui l'ai su causer ! Je ne demande plus qu'une chose…"
+  },
+  { "type": "réplique", "personnage": "Christian", "contenu": "Un baiser !" },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Hein ?" },
+  { "type": "réplique", "personnage": "Cyrano", "contenu": "Oh !" },
+  { "type": "réplique", "personnage": "Roxane", "contenu": "Vous demandez ?" },
+  { "type": "réplique", "personnage": "Cyrano", "contenu": "Oui…je…" },
+  {
+    "type": "didascalie",
+    "personnage": "Cyrano",
+    "contenu": "À Christian, bas"
+  },
+  {
+    "type": "réplique",
+    "personnage": "Cyrano",
+    "contenu": "Tu vas trop vite."
+  },
+  {
+    "type": "réplique",
+    "personnage": "Christian",
+    "contenu": "Puisqu'elle est si troublée, il faut que j'en profite !"
+  }
+]
